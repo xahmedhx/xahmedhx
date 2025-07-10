@@ -1,49 +1,17 @@
 <div align="center">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <h1>Hi there, I'm Ahmed Hany 👋</h1>
   <h3>Welcome to my GitHub!</h3>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Enthusiast;Full+Stack+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-```typescript
-const developer = {
-  name: "Your Name",
-  role: "Software Engineer",
-  location: "Your Location",
-  languages: ["JavaScript", "Python", "TypeScript", "Java"],
-  technologies: {
-    frontend: ["React", "Vue.js", "HTML5", "CSS3", "Tailwind"],
-    backend: ["Node.js", "Express", "Django", "FastAPI"],
-    database: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    cloud: ["AWS", "Google Cloud", "Azure", "Docker"],
-    ai: ["OpenAI GPT", "TensorFlow", "PyTorch", "Hugging Face"]
-  },
-  currentFocus: "Building AI-powered applications",
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
-### 💼 Current Projects
-
-🔭 **[Project Name]** - Building a [description] that [impact/purpose]
-
-🌱 **Learning**: [Technology/Framework] and exploring [specific area]
-
-👯 **Collaboration**: Open to collaborate on [type of projects]
-
-💬 **Ask me about**: [Your expertise areas]
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophy" />
-</div>
+"I'm Ahmed, a passionate software developer from Cairo who loves turning ideas into reality through code. I'm always eager to learn new technologies and explore innovative solutions. Whether it's building mobile apps, web applications, or diving into AI projects, I enjoy every challenge that comes my way. My curiosity drives me to constantly grow as a developer and stay up-to-date with the latest tech trends."
 
 ### 🔧 Technologies & Tools
 
@@ -51,11 +19,11 @@ const developer = {
 
 **Frontend Development**
 <br>
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,js,ts,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,flutter" />
 
 **Backend Development**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,python,express,django,fastapi,java,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
 
 **Database & Cloud**
 <br>
