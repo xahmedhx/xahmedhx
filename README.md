@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I'm [Ahmed Hany] 👋
+Welcome to my GitHub!
+I'm a [Your Role/Title], passionate [your interests], and [community involvement]. I love creating solutions that blend [your focus areas]. Whether it's [specific examples of your work], I enjoy every part of the journey from idea to deployment.
+👨‍💻 About Me
 
-<!--
-**xahmedhx/xahmedhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏥 Currently building a [your current project] connecting [target users] with [solution/service]
+🛠️ Experienced in [your main technologies], [framework/tool], [stack], [authentication method], and [other tools]
+🤖 Enthusiastic about AI projects — working with models like [AI tools you use] for [specific applications]
+🎯 Focused on [your specialties] and [deployment type]
+🌍 Contributed to building "[project name]" ([description]) tools at [organization], improving [specific impact]
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+CategoryTools & FrameworksFrontend[Your frontend tech - e.g., React, Vue, Angular]Backend[Your backend tech - e.g., Node.js, Python, Java]Database[Your databases - e.g., MongoDB, PostgreSQL, MySQL]AI/ML[Your AI tools - e.g., OpenAI GPT, TensorFlow, PyTorch]DevOps[Your DevOps tools - e.g., Docker, AWS, Kubernetes]Mobile[Your mobile tech - e.g., React Native, Flutter]Other[Other tools - e.g., GraphQL, REST APIs, WebSockets]
+🤝 Let's Connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 LinkedIn: [Your LinkedIn URL]
+📧 Email: [your.email@example.com]
+🌐 Portfolio: [your-portfolio-website.com]
+🐦 Twitter: [@yourusername]
